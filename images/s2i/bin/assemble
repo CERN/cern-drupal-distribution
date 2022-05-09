@@ -1,4 +1,6 @@
 #!/bin/sh
+set -exu
+
 #
 # S2I assemble script for the image.
 # The 'assemble' script builds your application source ready to run.
